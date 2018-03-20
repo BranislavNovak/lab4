@@ -1,0 +1,15 @@
+D:\RA221-2015\lab3\implementation\system.ngc 1521540997
+D:/RA221-2015/lab3/implementation/system_dip_switches_wrapper.ngc 1521540972
+D:/RA221-2015/lab3/implementation/system_rs232_wrapper.ngc 1521540959
+D:/RA221-2015/lab3/implementation/system_proc_sys_reset_0_wrapper.ngc 1521540885
+D:/RA221-2015/lab3/implementation/system_clock_generator_0_wrapper.ngc 1521540984
+D:/RA221-2015/lab3/implementation/system_microblaze_0_ilmb_wrapper.ngc 1521540976
+D:/RA221-2015/lab3/implementation/system_microblaze_0_dlmb_wrapper.ngc 1521540979
+D:/RA221-2015/lab3/implementation/system_axi4lite_0_wrapper.ngc 1521540987
+D:/RA221-2015/lab3/implementation/system_microblaze_0_wrapper.ngc 1521540981
+D:/RA221-2015/lab3/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1521540894
+D:/RA221-2015/lab3/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1521540903
+D:/RA221-2015/lab3/implementation/system_debug_module_wrapper.ngc 1521540940
+D:/RA221-2015/lab3/implementation/system_leds_wrapper.ngc 1521540965
+D:/RA221-2015/lab3/implementation/system_microblaze_0_bram_block_wrapper.ngc 1521540908
+OK
