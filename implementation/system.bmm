@@ -1,4 +1,4 @@
-// File: D:\RA221-2015\lab3\implementation\system.bmm
+// File: C:\Users\student\Desktop\lab4\lab4\implementation\system.bmm
 
 ADDRESS_MAP microblaze_0 MICROBLAZE-LE 100
 	ADDRESS_SPACE microblaze_0_bram_block_combined COMBINED [0x00000000:0x00007fff]

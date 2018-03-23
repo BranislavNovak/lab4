@@ -1,3 +1,6 @@
+WARNING:EDK:2137 - Peripheral my_peripheral_0 is not accessible from any
+   processor in the system. Check Bus Interface connections and address
+   parameters. 
 
 Checking platform configuration ...
 IPNAME: lmb_v10, INSTANCE: microblaze_0_ilmb - 1 master(s) : 1 slave(s) 

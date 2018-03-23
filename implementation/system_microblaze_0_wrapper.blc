@@ -6,8 +6,8 @@ xc6slx45fgg676-2 -intstyle silent -i -sd .. system_microblaze_0_wrapper.ngc
 ../system_microblaze_0_wrapper
 
 Reading NGO file
-"D:/RA221-2015/lab3/implementation/microblaze_0_wrapper/system_microblaze_0_wrap
-per.ngc" ...
+"C:/Users/student/Desktop/lab4/lab4/implementation/microblaze_0_wrapper/system_m
+icroblaze_0_wrapper.ngc" ...
 
 Partition Implementation Status
 -------------------------------
